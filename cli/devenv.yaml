@@ -1,0 +1,6 @@
+
+scripts:
+    format: dart format lib/**/*.dart
+    lint:
+        check: dart fix --dry-run
+        fix: dart fix --apply
