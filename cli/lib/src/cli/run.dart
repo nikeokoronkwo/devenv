@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:devenv/src/config/scripts.dart';
 import 'package:devenv/src/scripts/avaialable_scripts.dart';
 import 'package:io/ansi.dart';
 import 'package:io/io.dart';
